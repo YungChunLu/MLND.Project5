@@ -1,0 +1,4 @@
+# dataset
+data/*
+# dummy files
+.ipynb_checkpoints/*
