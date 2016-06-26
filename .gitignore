@@ -1,3 +1,5 @@
+# CSV files
+*.csv
 # dataset
 data/*
 # dummy files
