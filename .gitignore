@@ -4,3 +4,5 @@
 data/*
 # dummy files
 .ipynb_checkpoints/*
+Archived/*
+result/*
