@@ -4,7 +4,9 @@
 data/*
 # dummy files
 .*
+# files about result
 Archived/*
 result/*
 README.pdf
 result.zip
+Project 5.zip
