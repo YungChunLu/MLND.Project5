@@ -3,6 +3,8 @@
 # dataset
 data/*
 # dummy files
-.ipynb_checkpoints/*
+.*
 Archived/*
 result/*
+README.pdf
+result.zip
