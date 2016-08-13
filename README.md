@@ -1,5 +1,5 @@
 # Machine Learning Nano Degree
-## Facebook V: Predicting Check Ins
+## Facebook V: Predicting Check Ins [Jupyter Notebook](http://nbviewer.jupyter.org/github/ArthurLu/MLND.Project5/blob/master/Capstone%20Project.ipynb)
 ![Project5 Cover Picture](https://github.com/ArthurLu/MLND.Project5/blob/master/FB5_banner.png)
 
 ### Project Highlights
